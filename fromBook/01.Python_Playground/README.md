@@ -1,2 +1,1 @@
-Python for Beignner
-Basic Pyhton learning and data structure is discussed here
+![Book_Cover](https://github.com/sabboshachi/Python_Playground/blob/master/fromBook/01.Python_Playground/assets/img.jpg "Pyhton Playground")
