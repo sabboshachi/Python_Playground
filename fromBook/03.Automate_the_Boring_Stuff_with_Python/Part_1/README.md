@@ -1,5 +1,5 @@
-# শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন 
-### (by Rakibul Hassan)
+# Automate the Boring Stuff with Python
+### (by Al Sweigart)
 
 <img src ="https://automatetheboringstuff.com/images/automate_2e_cover.png" title="turtle">
 
