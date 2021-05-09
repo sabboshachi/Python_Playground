@@ -1,0 +1,2 @@
+n = 21 - 50
+print(n*2)DdddddddddddddddddddDdddddddddddddddssssssssssssssssssssssssssssssddddddddddddddddddsddddddddDdddddDdddddddddddddddSsSsssssssssssSsssssssEddddddddddddddDddddddddddddddddddddSsssssssssssss
