@@ -1,6 +1,8 @@
-def hello():
+# declaring a function
+def hello():. 
     print("Howdy!")
     print("Hello!")
     print("Hello Susmita!!")
 
-hello() #calling the function
+#calling the function
+hello() 
