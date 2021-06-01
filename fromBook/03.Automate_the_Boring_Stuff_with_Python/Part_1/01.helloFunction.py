@@ -3,4 +3,4 @@ def hello():
     print("Hello!")
     print("Hello Susmita!!")
 
-hello()
+hello() #calling the function
