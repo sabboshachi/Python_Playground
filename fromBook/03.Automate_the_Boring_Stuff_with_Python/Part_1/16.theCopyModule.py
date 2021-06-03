@@ -1,4 +1,4 @@
-import copy
+import copy  #importing the copy module 
 
 spam = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O"]
 print(spam)
