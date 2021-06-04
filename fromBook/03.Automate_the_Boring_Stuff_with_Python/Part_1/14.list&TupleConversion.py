@@ -1,4 +1,4 @@
-name = ["susmita", "dey", "tip"]
+name = ["susmita", "dey", "tip"] # making a list
 print(type(name))
 name = tuple()
 print(type(name))
