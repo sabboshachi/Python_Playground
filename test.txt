@@ -1,1 +1,2 @@
-This is a test file. Here I'm testing the git push.
+From IDE its working.
+What the hell is going with SmartGit and other Git Terminal Commands.
