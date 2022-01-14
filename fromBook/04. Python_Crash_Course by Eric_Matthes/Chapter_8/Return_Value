@@ -1,0 +1,5 @@
+A function doesn't always have to display ist output directly.
+Instead it can process some data and then return a value or a set
+of values. The value the function returns is called a return value.
+The return statement takes a value from inside a function and sends is back to the line that called the function.
+Return values allow us to move much of oue program's grunt work into functions, which can simplify the body of our program.

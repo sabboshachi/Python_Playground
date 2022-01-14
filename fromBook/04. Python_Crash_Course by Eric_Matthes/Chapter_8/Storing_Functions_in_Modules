@@ -1,0 +1,10 @@
+
+
+###############################################################################################################
+One of the main advantage of function is the way they separate blicks of code form our program. But using
+descriptive names for our functions our main program will ne much easier ro follow. We can go a step further
+ by storing our function in a separate file called a module and  then impirting that module into oue main program.
+ An import statement tells Python to make the code in a module  available in the current running program.
+ Storing pur function in a separate file allows us to hide the details of our programs's code and focus on its higher level logic.
+
+
