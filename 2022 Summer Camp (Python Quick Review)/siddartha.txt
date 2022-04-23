@@ -1,7 +1,2 @@
-Hi
-this is a demo text file for testing.
-with this txt file i'm try to read a text file with my code.
-let's try if it workes or not.
-but wait 
-let's have the most commont print in program.
-"Hello World !"
+I love Programminmg!
+I want to be a programmer!.
