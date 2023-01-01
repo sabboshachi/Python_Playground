@@ -6,3 +6,13 @@ __________
 The best way we learn anything is by practicing and exercise to solve questions as many as you can.
 
 
+# Setup Enveronment
+Intall Python
+
+# IDE Setup
+## Jupyter Notebook
+  * Open CMD (run as administrator)
+  * Write Command: 
+    pip install notebook
+  * Installation is done. Now to run the notebook write command:
+    jupyter notebook
