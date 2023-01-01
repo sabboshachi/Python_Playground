@@ -13,8 +13,8 @@ Intall Python
 ## Jupyter Notebook
   * Open CMD (run as administrator)
   * Write Command: 
-  ''' html
-    pip install notebook
-  '''
+'''
+pip install notebook
+'''
   * Installation is done. Now to run the notebook write command:
     jupyter notebook
