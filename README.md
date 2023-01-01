@@ -14,7 +14,7 @@ Intall Python
   * Open CMD (run as administrator)
   * Write Command: 
 ```
-pip install notebook
+    pip install notebook
 ```
   * Installation is done. Now to run the notebook write command:
 ```
