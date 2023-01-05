@@ -18,7 +18,9 @@ Python is a MUST for students and working professionals to become a great Softwa
 
 
 # Setup Enveronment
-Intall Python
+Download leatest python.exe file from here. [Link](https://www.python.org/downloads/)
+Intall Python on PC. 
+
 
 # IDE Setup
 ## Jupyter Notebook
