@@ -17,7 +17,7 @@ Python is a MUST for students and working professionals to become a great Softwa
  * Python is a Beginner's Language − Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games.
 
 
-# Setup Enveronment
+# Install Python
 Download leatest python.exe file from here. [Link](https://www.python.org/downloads/) </br>
 Now install Python on PC. 
 
