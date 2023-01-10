@@ -33,3 +33,10 @@ pip install notebook
 ```
 jupyter notebook
 ```
+
+
+# Resources for Practice 
+
+## Video Lectures
+## Books
+  1. Python Crash Course by Errick Matts. [Link](https://www.python.org/downloads/)
