@@ -39,4 +39,4 @@ jupyter notebook
 
 ## Video Lectures
 ## Books
-  1. Python Crash Course by Eric Matthes. [Link](https://github.com/sabboshachi/Python_Practice/tree/master/fromBook/04.Python_Crash_Course%20by%20Eric_Matthes)
+  1. Python Crash Course by Eric Matthes. [Link](https://github.com/sabboshachi/Python_Practice/tree/master/fromBook/04.Python_Crash_Course%20by%20Eric_Matthes/Book)
