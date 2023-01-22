@@ -20,6 +20,8 @@ class Car():
 
 my_new_car = Car("BMW", "a4", 2016)
 print(my_new_car.get_descriptive_name())
+
+my_new_car.odometer_reading = 25
 my_new_car.read_odometer()
 
 
