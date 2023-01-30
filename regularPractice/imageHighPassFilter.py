@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 # Load the image
-img = cv2.imread("image.jpg", cv2.IMREAD_GRAYSCALE)
+img = cv2.imread("IMG_20190221_151522_321.jpg", cv2.IMREAD_GRAYSCALE)
 
 # Create a high-pass filter
 kernel = np.array([[-1, -1, -1], [-1, 8, -1], [-1, -1, -1]])
@@ -19,3 +19,4 @@ plt.subplot(122), plt.imshow(filtered_img, cmap='gray')
 plt.title("Filtered Image"), plt.xticks([]), plt.yticks([])
 
 plt.show()
+
